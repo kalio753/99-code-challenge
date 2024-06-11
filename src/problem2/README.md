@@ -9,7 +9,8 @@
 <li>Validate input field when empty, using number input so that people cannot go wrong with the format</li>
 <li>Simulate an fetching loading from Backend</li>
 <li>The color system based on 99Tech</li>
-<li>UI is simplified and using color to emphasize the functionalities, improve UX of users</li>
+<li>UI is simplified and using color contrast to emphasize the functionalities, improve UX of users</li>
 <li>Have the functionality to change between two block data</li>
 <li>Map SVG icon base on the data fetched</li>
 <li>Apply some animation to smoothen the UI</li>
+<li>Basic responsive for phone usage</li>
